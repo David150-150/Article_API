@@ -1,0 +1,13 @@
+# Ignore the virtual environment
+article_api/bin/
+article_api/include/
+article_api/lib/
+article_api/lib64/
+article_api/pyvenv.cfg
+mysql-apt-config_0.8.29-1_all.deb
+
+# Ignore environment variables
+.env
+
+# Ignore compiled Python files
+__pycache__/
